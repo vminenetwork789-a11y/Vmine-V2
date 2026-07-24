@@ -1,0 +1,8 @@
+{
+  "name": "VMine v2",
+  "description": "Automatically transforms video demonstrations into functional software architectures and ready-to-use code structures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
